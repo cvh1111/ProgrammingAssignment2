@@ -1,7 +1,7 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
-## Write a short comment describing this function
+## Short describing this function:
 ## This function creates a "vector", list containing a function to
 ## set the matrix
 ## get the matrix
@@ -24,7 +24,7 @@ makeCacheMatrix <- function(x = matrix()) {
 }
 
 
-## Write a short comment describing this function
+## Short describing this function:
 ## The function below calculate the inverse of a matrix with makeCacheMatrix. 
 ## It first checks to see if the inverse is already available. 
 ##   If so, it gets the inverse from the cache and skips the computation.
